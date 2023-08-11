@@ -7,7 +7,5 @@ Disable Mitigations=Deaktiver begrænsninger
 Disable Security Mitigations A Reboot Is Required For Changes To Take Effect=Deaktiver sikkerhedsbegrænsninger En genstart er påkrævet, for at ændringer træder i kraft
 Mitigations will be enabled after a reboot=Afhjælpning vil blive aktiveret efter en genstart
 Mitigations will be disabled after a reboot=Afhjælpning vil blive deaktiveret efter en genstart
-
-; Note: April 28, 2023 - 2 missing translations
-Status=
-A Reboot Is Required For Changes To Take Effect=
+Status=Status
+A Reboot Is Required For Changes To Take Effect=En Genstart Er Påkrævet For At Ændringer Træder I Kraft
