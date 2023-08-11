@@ -12,9 +12,9 @@ Minute=Minut
 Docker Must Be Enabled For This Module To Operate=Docker Skal Være Aktiveret For At Dette Modul Kan Fungere
 Update All Docker Applications=Opdater Alle Docker Applikationer
 Do not overlap with autoupdate=Overlap ikke med autoopdatering
+Update Check Frequency=Opdateringskontrolfrekvens
 
-; Note: April 28, 2023 - 5 missing translations
-Update Check Frequency=
+; Note: August 11, 2023 - 4 missing translations
 Support=
 Custom cron expression=
 Credits=
